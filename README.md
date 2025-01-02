@@ -77,7 +77,7 @@ pip install -r requirements.txt
   ---
 
 **Notebook Sharing**:
-   - [Binder]("https://mybinder.org/v2/gh/Aliyasuv/OIBSIP/main") 
+   - [Binder]["https://mybinder.org/v2/gh/Aliyasuv/OIBSIP/main"] 
 
 ## **License**
 All rights reserved.
